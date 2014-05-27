@@ -1,6 +1,6 @@
 # Image Gallery like Google Play for Android
 
-Simple photo gallery using viewPager. The effect is similar to the Google Play gallery. I overwrite the getPageWidth method of the FragmentStatePagerAdapter. The gallery accommodates both vertical and horizontal images automatically. To achieve this, you must include the width and height of the images in the json object
+Simple photo gallery using viewPager. The effect is similar to the Google Play gallery. For that, I overwrite the getPageWidth method of the FragmentStatePagerAdapter. The gallery accommodates both vertical and horizontal images automatically. To achieve this, you must include the width and height of the images in the json object
 
 You can wath a sample video [here](http://youtu.be/KqUdL4FJ5YQ)
 
